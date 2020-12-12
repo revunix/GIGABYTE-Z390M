@@ -32,8 +32,7 @@ USBPorts.kext | 1.0 | [Create your self!](https://github.com/headkaze/Hackintool
 
 
 ## Updates
-2020-12-12 / Version 1.0
-Released with OpenCore 0.6.4.
+2020-12-12 / Version 1.0 -- Released with OpenCore 0.6.4.
 
 
 ## BIOS Settings
