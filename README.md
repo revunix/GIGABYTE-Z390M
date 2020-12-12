@@ -19,13 +19,14 @@ Items | Last Version | Comments
 ------------ | ------------- | -------------
 [BIOS](https://www.gigabyte.com/Motherboard/Z390-M-rev-10/support#support-dl-bios) | F6i | Be sure to upgrade F6i
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.4 |
-[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.4.9 | 
-[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.4 |
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.1.8 |
-[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.4 |
+[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.1 | 
+[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.6 |
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.2.0 |
+[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.6 |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases/latest) | 1.0.4 |
 [IntelMausi](https://github.com/acidanthera/IntelMausi) | 1.0.5 |
-USBPorts.kext | 1.0 | [Create your self!](https://github.com/headkaze/Hackintool/releases/latest)
+[CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.2.2 | [Create your own CPUFriendDataProvider.kext!](https://github.com/stevezhengshiqi/one-key-cpufriend)
+USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headkaze/Hackintool/releases/latest)
 
 **Important! Important! Important**
 **Highly recommended to try the lastest BIOS 'F6i' version. Download [BIOS](https://download.gigabyte.com/FileList/BIOS/mb_bios_z390m_f6i.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
