@@ -80,7 +80,7 @@ Based on F6i version.
 		- Aperture Size → **256M**
 		- Audio Controller → **Enabled**
     	- Above 4G Decoding → **Enabled**
-    	- Super IO Configuration (F9l BIOS only)
+    	- Super IO Configuration (F6i BIOS only)
     		- Serial Port → **Disabled**
     	- USB Configuration
     		- XHCI Hand-off → **Enabled**
@@ -95,11 +95,11 @@ Based on F6i version.
 * System Info.
 	- System Language → **English**
 * Boot
-	- CFG Lock → **Disabled** (F9l BIOS only)
+	- CFG Lock → **Disabled** (F6i BIOS only)
 	- Full Screen LOGO Show → **Disabled**
 	- Fast Boot → **Enabled**
 		- PS2 Devices Support → **Disabled**
 		- Next Boot After AC Power Loss → **Fast Boot**
 	- Windows 8/10 Features → **Other OS**
 	- CSM Support → **Disable**
-	- Secure Boot → **Disable** (Secure Boot will be disabled by default, but good to check)
+	- Secure Boot → **Disable**
