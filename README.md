@@ -29,7 +29,7 @@ Items | Last Version | Comments
 [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.6 |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases/latest) | 1.0.4 |
 [IntelMausi](https://github.com/acidanthera/IntelMausi) | 1.0.5 |
-[CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.2.2 | [Create your own CPUFriendDataProvider.kext!](https://github.com/stevezhengshiqi/one-key-cpufriend)
+[CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.2.2 | Disable: Kernel > Add > 7 & 8 [or create!](https://github.com/stevezhengshiqi/one-key-cpufriend)
 USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headkaze/Hackintool/releases/latest)
 
 **Important! Important! Important**
