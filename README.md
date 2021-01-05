@@ -37,8 +37,8 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 
 
 ## Updates
-2021-01-05 / Version 1.1 -- Released with OpenCore 0.6.5 & updated kexts.
-2020-12-12 / Version 1.0 -- Released with OpenCore 0.6.4.
+- 2021-01-05 / Version 1.1 -- Released with OpenCore 0.6.5 & updated kexts.
+- 2020-12-12 / Version 1.0 -- Released with OpenCore 0.6.4.
 
 
 ## BIOS Settings
