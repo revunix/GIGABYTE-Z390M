@@ -2,6 +2,10 @@
 
 ![alt text](https://github.com/revunix/GIGABYTE-Z390M/blob/main/images/aboutmac.png?raw=true)
 
+
+[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
+
+
 ## Hardware
 Components | Recommended
 ------------ | -------------
@@ -18,22 +22,23 @@ OpenCore | v0.6.4 (stable)
 Items | Last Version | Comments
 ------------ | ------------- | -------------
 [BIOS](https://www.gigabyte.com/Motherboard/Z390-M-rev-10/support#support-dl-bios) | F6i | Be sure to upgrade F6i
-[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.4 |
-[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.4.9 | 
-[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.4 |
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.1.8 |
-[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.4 |
-[NVMeFix](https://github.com/acidanthera/NVMeFix/releases/latest) | 1.0.4 |
+[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.5 |
+[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.1 | 
+[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.6 |
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.2.0 |
+[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.6 |
+[NVMeFix](https://github.com/acidanthera/NVMeFix/releases/latest) | 1.0.5 | i don't need
 [IntelMausi](https://github.com/acidanthera/IntelMausi) | 1.0.5 |
-USBPorts.kext | 1.0 | [Create your self!](https://github.com/headkaze/Hackintool/releases/latest)
+[CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.2.3 | Disable: Kernel > Add > 7 & 8 [or create!](https://github.com/stevezhengshiqi/one-key-cpufriend)
+USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headkaze/Hackintool/releases/latest)
 
 **Important! Important! Important**
 **Highly recommended to try the lastest BIOS 'F6i' version. Download [BIOS](https://download.gigabyte.com/FileList/BIOS/mb_bios_z390m_f6i.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
 
 
 ## Updates
-2020-12-12 / Version 1.0
-Released with OpenCore 0.6.4.
+2021-01-05 / Version 1.1 -- Released with OpenCore 0.6.5 & updated kexts.
+2020-12-12 / Version 1.0 -- Released with OpenCore 0.6.4.
 
 
 ## BIOS Settings
@@ -80,7 +85,7 @@ Based on F6i version.
 		- Aperture Size → **256M**
 		- Audio Controller → **Enabled**
     	- Above 4G Decoding → **Enabled**
-    	- Super IO Configuration (F9l BIOS only)
+    	- Super IO Configuration (F6i BIOS only)
     		- Serial Port → **Disabled**
     	- USB Configuration
     		- XHCI Hand-off → **Enabled**
@@ -95,11 +100,11 @@ Based on F6i version.
 * System Info.
 	- System Language → **English**
 * Boot
-	- CFG Lock → **Disabled** (F9l BIOS only)
+	- CFG Lock → **Disabled** (F6i BIOS only)
 	- Full Screen LOGO Show → **Disabled**
 	- Fast Boot → **Enabled**
 		- PS2 Devices Support → **Disabled**
 		- Next Boot After AC Power Loss → **Fast Boot**
 	- Windows 8/10 Features → **Other OS**
 	- CSM Support → **Disable**
-	- Secure Boot → **Disable** (Secure Boot will be disabled by default, but good to check)
+	- Secure Boot → **Disable**
