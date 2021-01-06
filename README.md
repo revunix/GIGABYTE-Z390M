@@ -15,7 +15,7 @@ Components | Recommended
 **Graphics Card** | MSI Radeon RX 580 Armor 8GB OC
 RAM | 32GB G.Skill Aegis DDR4-3000Mhz
 macOS | 11.0.1 (20B29)
-OpenCore | v0.6.4 (stable)
+OpenCore | v0.6.5 (stable)
 
 
 ## Included items table
@@ -37,8 +37,12 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 
 
 ## Updates
-- 2021-01-05 / Version 1.1 -- Released with OpenCore 0.6.5 & updated kexts.
-- 2020-12-12 / Version 1.0 -- Released with OpenCore 0.6.4.
+* 2021-01-05 / Version 1.1 
+	- Released with OpenCore 0.6.5
+	- Updated kexts
+
+* 2020-12-12 / Version 1.0
+	- Released with OpenCore 0.6.4.
 
 
 ## BIOS Settings
