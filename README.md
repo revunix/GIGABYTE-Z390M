@@ -39,7 +39,7 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 * 2021-02-14 / Version 1.2 
 	- Released with OpenCore 0.6.6
 	- Updated kexts
-	- Replase HfsPlus.efi with OpenHfsPlus.efi
+	- Replace HfsPlus.efi with the new OpenHfsPlus.efi
 
 * 2021-01-05 / Version 1.1 
 	- Released with OpenCore 0.6.5
