@@ -9,7 +9,7 @@
 ## Hardware
 Components | Recommended
 ------------ | -------------
-**Motherboard** | GIGABYTE Z390M - BIOS: [F6i](https://download.gigabyte.com/FileList/BIOS/mb_bios_z390m_f6i.zip)
+**Motherboard** | GIGABYTE Z390M - BIOS: [F6j](https://download.gigabyte.com/FileList/BIOS/mb_bios_z390m_f6j.zip)
 **CPU** | Intel i5 8600 - 3,1 GHz
 **WiFi** | [BCM943602CS](https://www.aliexpress.com/item/32798119149.html)
 **Graphics Card** | MSI Radeon RX 580 Armor 8GB OC
@@ -21,7 +21,7 @@ OpenCore | v0.6.6 (stable)
 ## Included items table
 Items | Last Version | Comments
 ------------ | ------------- | -------------
-[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-rev-10/support#support-dl-bios) | F6i | Be sure to upgrade F6i
+[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-rev-10/support#support-dl-bios) | F6j | Be sure to upgrade F6j
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.6 |
 [Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.1 | 
 [AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.8 |
@@ -51,7 +51,7 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 
 ## BIOS Settings
 
-Based on F6i version.
+Based on F6j version.
 
 #### First setup,
 
