@@ -49,6 +49,10 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 	- Released with OpenCore 0.6.4.
 
 ## iGPU | UHD 360 (i5 8600)
+<details>
+  <summary>DeviceProperties</summary>
+
+**Boot-arg:**  -wegnoegpu igfxonln=1 igfxagdc=0
 
 ```
 <dict>
@@ -113,6 +117,9 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 	</dict>
 </dict>
 ```
+
+</details>
+
 
 ## BIOS Settings
 
