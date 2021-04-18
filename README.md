@@ -48,6 +48,78 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 * 2020-12-12 / Version 1.0
 	- Released with OpenCore 0.6.4.
 
+## iGPU | UHD 360 (i5 8600)
+<details>
+  <summary>DeviceProperties</summary>
+
+**Boot-arg:**  -wegnoegpu igfxonln=1 igfxagdc=0
+
+```
+<dict>
+	<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+	<dict>
+		<key>AAPL,ig-platform-id</key>
+		<data>
+		BwCbPg==
+		</data>
+		<key>device-id</key>
+		<data>
+		mz4AAA==
+		</data>
+		<key>enable-hdmi20</key>
+		<data>
+		AQAAAA==
+		</data>
+		<key>framebuffer-con0-busid</key>
+		<data>
+		AQAAAA==
+		</data>
+		<key>framebuffer-con0-enable</key>
+		<data>
+		AQAAAA==
+		</data>
+		<key>framebuffer-con0-pipe</key>
+		<data>
+		EgAAAA==
+		</data>
+		<key>framebuffer-con1-busid</key>
+		<data>
+		AgAAAA==
+		</data>
+		<key>framebuffer-con1-enable</key>
+		<data>
+		AQAAAA==
+		</data>
+		<key>framebuffer-con1-type</key>
+		<data>
+		AAgAAA==
+		</data>
+		<key>framebuffer-con2-busid</key>
+		<data>
+		BAAAAA==
+		</data>
+		<key>framebuffer-con2-enable</key>
+		<data>
+		AQAAAA==
+		</data>
+		<key>framebuffer-con2-type</key>
+		<data>
+		AAgAAA==
+		</data>
+		<key>framebuffer-patch-enable</key>
+		<data>
+		AQAAAA==
+		</data>
+		<key>framebuffer-unifiedmem</key>
+		<data>
+		AAAAgA==
+		</data>
+	</dict>
+</dict>
+```
+
+</details>
+
 
 ## BIOS Settings
 
