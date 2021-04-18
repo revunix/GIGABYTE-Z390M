@@ -15,18 +15,18 @@ Components | Recommended
 **Graphics Card** | MSI Radeon RX 580 Armor 8GB OC
 RAM | 32GB G.Skill Aegis DDR4-3000Mhz
 macOS | 11.2 (20D64)
-OpenCore | v0.6.6 (stable)
+OpenCore | v0.6.8 (stable)
 
 
 ## Included items table
 Items | Last Version | Comments
 ------------ | ------------- | -------------
 [BIOS](https://www.gigabyte.com/Motherboard/Z390-M-rev-10/support#support-dl-bios) | F6j | Be sure to upgrade F6j
-[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.6 |
-[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.1 | 
-[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.5.8 |
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.2.0 |
-[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.7 |
+[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.8 |
+[Lilu](https://github.com/acidanthera/Lilu/releases/latest) | 1.5.3 | 
+[AppleALC](https://github.com/acidanthera/AppleALC/releases/latest) | 1.6.0 |
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/latest) | 1.2.3 |
+[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.5.0 |
 [IntelMausi](https://github.com/acidanthera/IntelMausi) | 1.0.5 |
 [CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.2.4 | Disable: Kernel > Add > 7 & 8 [or create!](https://github.com/stevezhengshiqi/one-key-cpufriend)
 USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headkaze/Hackintool/releases/latest)
@@ -36,6 +36,10 @@ USBPorts.kext | 1.0 | [Create your own USBPorts.kext!](https://github.com/headka
 
 
 ## Updates
+* 2021-04-18 / Version 1.3 
+	- Released with OpenCore 0.6.8
+	- Updated kexts
+
 * 2021-02-14 / Version 1.2 
 	- Released with OpenCore 0.6.6
 	- Updated kexts
