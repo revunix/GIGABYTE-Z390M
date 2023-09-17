@@ -3,7 +3,7 @@
 ![alt text](https://github.com/revunix/GIGABYTE-Z390M/blob/main/images/aboutmac.png?raw=true)
 
 
-[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
+[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.ko-fi.com/revunix)
 
 
 ## Hardware
